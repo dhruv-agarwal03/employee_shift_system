@@ -1,5 +1,5 @@
 **Shift Scheduling and Holiday Management System**
-A web-based system for managing shift swaps and holiday requests. This system allows employees to request shift changes or holidays, while supervisors can approve or reject these requests. The system also updates the schedules accordingly when requests are accepted.
+A web-based system for managing shift swaps and holiday requests. This system allows employees to request shift changes or holidays with others in same city, while supervisors can approve or reject these requests. The system also updates the schedules accordingly when requests are accepted.
 
 **Description**
 The Shift Scheduling and Holiday Management System helps employees manage shift changes and holiday requests efficiently. Employees can submit requests to swap shifts or ask for holidays, and supervisors can accept or reject those requests. The system automatically updates the work schedule based on the approved requests.
@@ -16,3 +16,9 @@ The Shift Scheduling and Holiday Management System helps employees manage shift 
       Holiday Requests: Employees can request holidays, which can be approved or rejected by supervisors.
       Status Management: Requests have a status (Pending, Accepted, Rejected), which is updated based on supervisor actions.
       Schedule Updates: Once a shift swap or holiday is approved, the schedules are automatically updated for the respective employees.
+**Install**
+    Download the whole project.
+    Download and intall Xampp to run mySQL.
+    Open Xampp and start php server and mySQL server.
+    Import data base file added in repository in mySQL.
+    Now run index.php file on browser.
