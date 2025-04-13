@@ -5,10 +5,10 @@ A web-based system for managing shift swaps and holiday requests. This system al
 The Shift Scheduling and Holiday Management System helps employees manage shift changes and holiday requests efficiently. Employees can submit requests to swap shifts or ask for holidays, and supervisors can accept or reject those requests. The system automatically updates the work schedule based on the approved requests.
 
 **Key features include:**
-    Submitting shift change requests
-    Requesting holidays
-    Approving or rejecting requests
-    Automatically updating employee schedules based on accepted requests
+    Submitting shift change requests.
+    Requesting holidays.
+    Approving or rejecting requests.
+    Automatically updating employee schedules based on accepted requests.
     Shift Swap Restrictions: Shift swaps are only allowed between employees from the same city.
 
 **Features**
